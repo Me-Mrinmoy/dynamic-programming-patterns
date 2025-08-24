@@ -81,3 +81,14 @@ I practiced and solved these problems as part of my **FAANG interview preparatio
 - [Sushi](https://lnkd.in/gKSzxYKY)
 
 
+### 🔹 Pattern 11: Probability / Expectation DP
+- [Dice Roll Simulation](https://lnkd.in/gstHYfP9)
+- [Candy Lottery](https://lnkd.in/gFU88CE3)
+- [Coins](https://lnkd.in/gaq5UNHq)
+
+---
+
+## 🚀 How to Use
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/<your-username>/dynamic-programming-patterns.git
