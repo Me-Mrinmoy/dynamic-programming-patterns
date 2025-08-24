@@ -26,3 +26,13 @@ I practiced and solved these problems as part of my **FAANG interview preparatio
 - [Min Cost Climbing Stairs](https://lnkd.in/g9DXiD-H)
 - [Dice Combinations](https://lnkd.in/gmwhP22y)
 - [Frog 1](https://lnkd.in/gjviS2BP)
+
+
+### 🔹 Pattern 2: 0/1 Knapsack
+- [Target Sum](https://lnkd.in/gEx3dCFV)
+- [Partition Equal Subset Sum](https://lnkd.in/gESS8N7e)
+- [Knapsack](https://lnkd.in/gjha5a2G)
+- [Knapsack 1](https://lnkd.in/gfTDwZv5)
+
+
+
