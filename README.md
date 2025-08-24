@@ -47,3 +47,17 @@ I practiced and solved these problems as part of my **FAANG interview preparatio
 - [LCS](https://lnkd.in/gjU5FU5r)
 
 
+### 🔹 Pattern 5: Longest Increasing Subsequence (LIS)
+- [Longest Increasing Subsequence](https://lnkd.in/g3HAgkwK)
+- [Increasing Subsequence](https://lnkd.in/gwwUi6Xb)
+
+
+### 🔹 Pattern 6: Grid-Based DP
+- [Unique Paths](https://lnkd.in/gckwVvmm)
+- [Grid Paths](https://lnkd.in/gzxH5Hs4)
+- [Grid 1](https://lnkd.in/g6EZArGQ)
+
+### 🔹 Pattern 7: Interval DP
+- [Burst Balloons](https://lnkd.in/gwwRtcwK)
+- [Palindrome Partitioning II](https://lnkd.in/gkiwGJZw)
+- [Slime](https://lnkd.in/gxQwjZnB)
