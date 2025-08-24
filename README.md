@@ -61,3 +61,17 @@ I practiced and solved these problems as part of my **FAANG interview preparatio
 - [Burst Balloons](https://lnkd.in/gwwRtcwK)
 - [Palindrome Partitioning II](https://lnkd.in/gkiwGJZw)
 - [Slime](https://lnkd.in/gxQwjZnB)
+
+
+### 🔹 Pattern 8: Tree DP
+- [House Robber III](https://lnkd.in/gWJjFDTV)
+- [Tree Matching](https://lnkd.in/gY2bfrJU)
+- [Independent Set](https://lnkd.in/gF9AnQ5N)
+
+
+### 🔹 Pattern 9: Bitmasking / State Compression
+- [Campus Bikes II](https://lnkd.in/gNdqQkv7)
+- [Elevator Rides](https://lnkd.in/gEURDjQh)
+- [Traveling Salesman](https://lnkd.in/gfabcxXt)
+
+
