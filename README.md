@@ -91,4 +91,4 @@ I practiced and solved these problems as part of my **FAANG interview preparatio
 ## 🚀 How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/dynamic-programming-patterns.git
+   git clone https://github.com/<Me-Mrinmoy>/dynamic-programming-patterns.git
