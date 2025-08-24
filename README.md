@@ -35,4 +35,15 @@ I practiced and solved these problems as part of my **FAANG interview preparatio
 - [Knapsack 1](https://lnkd.in/gfTDwZv5)
 
 
+### 🔹 Pattern 3: Unbounded Knapsack
+- [Coin Change](https://lnkd.in/gBs2BM7j)
+- [Coin Combinations I](https://lnkd.in/gE5AWDxW)
+- [Cutting Rod](https://lnkd.in/gjGsA8ys)
+
+
+### 🔹 Pattern 4: Longest Common Subsequence (LCS)
+- [Uncrossed Lines](https://lnkd.in/gEHhw6u9)
+- [Edit Distance](https://lnkd.in/gyYVE88f)
+- [LCS](https://lnkd.in/gjU5FU5r)
+
 
