@@ -16,3 +16,13 @@ I practiced and solved these problems as part of my **FAANG interview preparatio
   This repository contains solutions to <b>Dynamic Programming (DP) problems</b>, organized by common patterns.  
   I practiced and solved these problems as part of my <b>FAANG interview preparation</b>.  
 </p>
+
+---
+
+## 📑 Patterns & Problems
+
+### 🔹 Pattern 1: Fibonacci / Simple Recurrence
+- [Climbing Stairs](https://lnkd.in/giTchSuB)
+- [Min Cost Climbing Stairs](https://lnkd.in/g9DXiD-H)
+- [Dice Combinations](https://lnkd.in/gmwhP22y)
+- [Frog 1](https://lnkd.in/gjviS2BP)
