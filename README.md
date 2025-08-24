@@ -75,3 +75,9 @@ I practiced and solved these problems as part of my **FAANG interview preparatio
 - [Traveling Salesman](https://lnkd.in/gfabcxXt)
 
 
+### 🔹 Pattern 10: Digit DP
+- [Numbers With Repeated Digits](https://lnkd.in/gRwS7GhC)
+- [Removing Digits](https://lnkd.in/g3XMWdMR)
+- [Sushi](https://lnkd.in/gKSzxYKY)
+
+
